@@ -1,10 +1,8 @@
 # MyReads
 ---
 This test is the 7th project of the Google Developer Scholarship Front End Developer Nanodegree course.
-https://kovacsl99.github.io/myreads/
 
 ## Table of Contents
-
 * [Overview](#overview)
 * [How to run this test](#how-to-run-this-test)
 * [Used technologies](#used-technologies)
@@ -34,5 +32,5 @@ In the MyReads project, I had to create a bookshelf app. In the app you can sele
 
 ## Contributing
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-For details, check out [contributing.md](contributing.md).
+For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
